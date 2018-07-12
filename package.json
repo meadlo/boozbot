@@ -1,0 +1,21 @@
+{
+  "name": "boozbot",
+  "version": "1.0.0",
+  "description": "Bot for decoding QR codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qr",
+    "telegram",
+    "bot"
+  ],
+  "author": "Zhusmansan meadlo",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "jpeg-js": "^0.3.4",
+    "jsqr": "^1.1.0"
+  }
+}
