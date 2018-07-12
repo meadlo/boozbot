@@ -14,8 +14,16 @@
   "author": "Zhusmansan meadlo",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
     "fs": "0.0.1-security",
+    "get-dependencies": "^1.1.0",
+    "http": "0.0.0",
+    "jimp": "^0.2.28",
     "jpeg-js": "^0.3.4",
-    "jsqr": "^1.1.0"
+    "jsqr": "^1.1.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "qrcode-reader": "^1.0.4",
+    "querystring": "^0.2.0",
+    "request": "^2.87.0"
   }
 }
